@@ -72,7 +72,8 @@ I experimented with different models:
   streamlit run app.py
 
 ## What I learned
--Handling imbalanced datasets is critical in fraud detection
--Tree-based models like XGBoost and LightGBM are best for complex tabular data
--Feature importance helps in understanding fraud indicators
--Building a small app interface makes the project more practical
+- Handling **imbalanced datasets** is critical in fraud detection  
+- Tree-based models like **XGBoost and LightGBM** are best for complex tabular data  
+- **Feature importance** helps in understanding fraud indicators  
+- Building a small **app interface** makes the project more practical  
+
